@@ -2,6 +2,11 @@
 
 Mini projeto desenvolvido com foco na consolidação de fundamentos do React.
 
+## 🔗 Deploy
+
+Acesse o projeto online:
+https://zoo-cards-tech-react.vercel.app/
+
 ## 🚀 Sobre o Projeto
 
 O **ZooCardsTech** é uma aplicação simples que renderiza cards de animais de forma dinâmica a partir de um array de objetos.
